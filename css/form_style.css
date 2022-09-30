@@ -1,0 +1,46 @@
+#fcf2 {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 600px;
+}
+#fcf2 h3 {
+	font-size:1.5em;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:4px;
+	margin: 0;
+	background-color: #FF0000;
+}
+#fcf2 p {
+	text-align:center;
+	padding:2px;
+}
+#fcf2 em {
+color:#F00;
+}
+#fcf2 div.r {
+	clear: both;
+	padding-top: 10px;
+}
+#fcf2 label {
+	float: left;
+	width: 220px;
+	text-align: right;
+}
+#fcf2 span.f {
+	float: right;
+	width: 350px;
+	text-align: left;
+}
+#fcf2 div.sp {
+	clear: both;
+	font-size: 12px;
+	text-align: center;
+}
+#fcf2 .req {
+font-weight:bold;
+}
+
+#fcf2 input:focus, #fcf2 textarea:focus {
+	background: #f2f2f2;
+}
+

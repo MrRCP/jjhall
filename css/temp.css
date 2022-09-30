@@ -1,0 +1,15 @@
+
+body {
+	margin:0 0;
+	background-image:url(../images/bluestrip.jpg);
+	background-repeat:repeat-x;
+}
+
+#standby {
+	width: 318px;
+	height: 411px;
+	margin: 0 auto;
+	background-image: url(../images/standbylogo.jpg);
+	background-repeat:no-repeat
+}
+

@@ -1,0 +1,124 @@
+@charset "UTF-8";
+/* CSS for the box starts here */
+	.box {
+	padding:0 12px 0 3px;
+	background:#fff url(../images/borders.gif) 100% 0 repeat-y;
+	width: 207px;
+	text-align: center;
+	float: left;
+	}
+	.bi {
+	padding:0 0 0 12px;
+	background:#fff url(../images/borders.gif) 0 0 repeat-y;
+	}
+
+	.bt {
+	height:17px;
+	margin:0 -12px;
+	background:url(../images/box.gif) 100% 0 no-repeat;
+	}
+	.bt div {
+		width:18px;
+		height:17px;
+		background:url(../images/box.gif) 0 0 no-repeat;
+	}
+	.bb {
+	height:17px;
+	margin:0 -12px;
+	background:url(../images/box.gif) 100% 100% no-repeat;
+	}
+	.bb div {
+	width:18px;
+	height:17px;
+	background:url(../images/box.gif) 0 100% no-repeat;
+	}
+	.box h4 {
+	padding:0.3em 10px;
+	background:#efece6;
+	font:bold 1em/1 Arial, Helvetica, sans-serif;
+	color: #003399;
+	margin: 0;
+	}
+	.box p, .box ul {
+	margin:0;
+	padding:4px 5px;
+	background:#fff;
+	}
+	.box li {
+	margin:0 0 0 2em;
+	padding: 0;
+	}
+.box img {
+	background:#fff url(../images/borders.gif) 100% 0 repeat-y;
+	text-align: center;
+	width: 100%;
+	margin-top: 5px;
+}
+.box2 {
+	padding:0 12px 0 0;
+	background:#fff url(../images/borders.gif) 100% 0 repeat-y;
+}
+.box2 h4 {
+	padding:0.3em 10px;
+	background:#efece6;
+	font:bold 1em/1 Arial, Helvetica, sans-serif;
+	color: #003399;
+	margin: 0;
+	line-height: 1.3em;
+}
+.box2 p, .box ul {
+	margin:0;
+	padding:4px 5px;
+	background:#fff;
+}
+.boxCopy {
+	text-align: center;
+	float: left;
+	border: solid 1px #003399;
+	width: 210px;
+	margin-right: 16px;
+}
+.boxCopy h4 {
+	padding:5px;
+	background:#efece6;
+	font:bold 1em/1 Arial, Helvetica, sans-serif;
+	color: #003399;
+	margin: 0;
+}
+.boxCopy p, .boxCopy ul {
+	margin:0;
+	padding:8px;
+	background:#fff;
+}
+.boxCopy img {
+	background:#fff url(../images/borders.gif) 100% 0 repeat-y;
+	text-align: center;
+	width: 100%;
+	margin-top: 5px;
+	margin-left: -1px;
+}
+.boxCopy2 {
+	text-align: center;
+	float: left;
+	border: solid 1px #003399;
+	width: 210px;
+}
+.boxCopy2 h4 {
+	padding:5px;
+	background:#efece6;
+	font:bold 1em/1 Arial, Helvetica, sans-serif;
+	color: #003399;
+	margin: 0;
+}
+.boxCopy2 p, .boxCopy2 ul {
+	margin:0;
+	padding:8px;
+	background:#fff;
+}
+.boxCopy2 img {
+	background:#fff url(../images/borders.gif) 100% 0 repeat-y;
+	text-align: center;
+	width: 100%;
+	margin-top: 5px;
+	margin-left: -1px;
+}
